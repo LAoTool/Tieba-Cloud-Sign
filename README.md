@@ -92,3 +92,7 @@ Pull Request和Issue请提交到 Github 代码库，在其他代码库提交可�
 [http://tieba.baidu.com/p/4822692349](http://tieba.baidu.com/p/4822692349)
 
 </details>
+
+### 获取方法小记
+
+进入`tieba.baidu.com`内获取**BDUSS**及**STOKEN**
